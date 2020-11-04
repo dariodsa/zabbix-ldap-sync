@@ -152,7 +152,8 @@ autologin = 1
 description = Email
 active = 0
 period = 1-5,07:00-22:00
-severity = Disaster, High, Average, Warning, Information, Not Classified
+severity = 63
+#Disaster, High, Average, Warning, Information, Not Classified
 onlycreate = true
 ```
 
